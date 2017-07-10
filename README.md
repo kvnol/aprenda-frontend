@@ -43,7 +43,19 @@ Título | Assunto | Formato | Preço | Idioma
 [Workflow Front-end](https://www.gitbook.com/book/tapmorales/workflow-front-end/) | Front-end | E-book | :free: | :brazil:
 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) | JavaScript | E-book | :free: | :brazil:
 
+[Ir para o índice](#Índice)
+
 ## :newspaper: Blogs
+
+Blog | Principal autor | Idioma
+:-- | :--: | :--:
+[Blog do Maujor](http://www.maujor.com/blog/) | [Maurício Samy Silva](https://github.com/maujor) | :brazil:
+[Da2k](http://blog.da2k.com.br/) | [Fernando Daciuk](https://github.com/fdaciuk) | :brazil:
+[Felipe Fialho](http://www.felipefialho.com/blog/) | [Felipe Fialho](https://github.com/lfeh) | :brazil:
+[Nando Moreira](https://nandomoreira.me/blog/) | [Nando Moreira](https://github.com/nandomoreirame) | :brazil:
+[Tableless](http://tableless.com.br/) | [Diego Eis](https://github.com/diegoeis) | :brazil:
+[Willian Justen](https://willianjusten.com.br/) | [Willian Justen](https://github.com/willianjusten) | :brazil:
+
 [Ir para o índice](#Índice)
 
 ## :video_camera: Palestras
