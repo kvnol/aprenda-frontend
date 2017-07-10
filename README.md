@@ -80,4 +80,9 @@ Título | Evento | Assunto | Palestrante | Idioma
 [Ir para o índice](#Índice)
 
 ## :sound: Podcasts
+Nome | Idioma
+:-- | :--:
+[Dev na Estrada](http://devnaestrada.com.br/) | :brazil:
+[Hipsters.tech](http://hipsters.tech/) | :brazil:
+
 [Ir para o índice](#Índice)
