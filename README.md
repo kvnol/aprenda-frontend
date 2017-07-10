@@ -71,6 +71,13 @@ Título | Evento | Assunto | Palestrante | Idioma
 [Ir para o índice](#Índice)
 
 ## :circus_tent: Eventos Ativos
+Nome | Tipo | Frequência | Organizadores | Local
+:-- | :--: | :--: | :--: | :--:
+[AngularSP](https://www.meetup.com/pt-BR/AngularJS-Sao-Paulo/) | Meetup | Mensal | [William Grasel](https://github.com/willgm), Deborah Lindau | SP, Brasil
+[CSS SP](https://www.meetup.com/pt-BR/CSS-SP/) | Meetup | Mensal | [Felipe Fialho](https://github.com/lfeh), [Raphael Fabeni](https://github.com/raphaelfabeni) | SP, Brasil
+[FemugSP](https://www.meetup.com/pt-BR/femugsp/) | Meetup | Mensal | [Lucas Mazza](https://github.com/lucasmazza) | SP, Brasil
+[Frontend SP Meetup](https://www.meetup.com/pt-BR/Frontend-Dev-SP-Meetup/) | Meetup | Mensal | [Shin](https://github.com/shin-monkey) | SP, Brasil
+
 [Ir para o índice](#Índice)
 
 ## :speech_balloon: Comunidades
