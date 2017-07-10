@@ -2,8 +2,7 @@
 <img src="/cover.png" width="250" alt="Aprenda Front-end">
 </p>
 <h1 align="center">Aprenda Front-end</h1>
-<p align="center">Central de conhecimento sobre desenvolvimento front-end</p>
-<p align="center">Inspirado no <a href="https://github.com/felipeorlando/aprenda-rubyonrails">Aprenda Ruby on Rails</a>.</p>
+<p align="center">Central de conhecimento sobre desenvolvimento front-end.<br>Inspirado no <a href="https://github.com/felipeorlando/aprenda-rubyonrails">Aprenda Ruby on Rails</a> do <a href="https://github.com/felipeorlando/">Felipe Orlando</a></p>
 
 <a id="user-content-Índice" class="anchor" href="#Índice" aria-hidden="true"></a>
 <p align="center">
