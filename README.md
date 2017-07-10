@@ -9,7 +9,7 @@
 	<a href="#mortar_board-cursos">Cursos</a> •
 	<a href="#book-livros">Livros</a> •
 	<a href="#newspaper-blogs">Blogs</a> •
-	<a href="#video_camera-palestras">Palestras</a> •
+	<a href="#video_camera-palestras-vídeos">Palestras</a> •
 	<a href="#computer-screencasts">Screencasts</a> •
 	<a href="#circus_tent-eventos-ativos">Eventos ativos</a> •
 	<a href="#speech_balloon-comunidades">Comunidades</a> •
