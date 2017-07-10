@@ -32,7 +32,7 @@ Título | Assunto | Formato | Preço | Idioma
 [Bootstrap 3.3.5](http://livrosdomaujor.com.br/bootstrap3/codigos.html) | CSS | E-book | :free: | :brazil:
 [Developing Backbone.js Applications](https://addyosmani.com/backbone-fundamentals/) | CSS | E-book | :free: | :us:
 [Dive Into HTML5](https://diveintohtml5.com.br/) | HTML5 | E-book | :free: | :brazil:
-[Eloquent Javascript](http://braziljs.github.io/eloquente-javascript/) | JavaScript | E-book | :free: | :brazil
+[Eloquent Javascript](http://braziljs.github.io/eloquente-javascript/) | JavaScript | E-book | :free: | :brazil:
 [Front-End Developer Handbook](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/) | Front-end | E-book | :free: | :us:
 [HTML5 Canvas](http://chimera.labs.oreilly.com/books/1234000001654/index.html) | HTML5 | E-book | :free: | :us:
 [HTML5 for Publishers](http://chimera.labs.oreilly.com/books/1234000000770/index.html) | HTML5 | E-book | :free: | :us:
