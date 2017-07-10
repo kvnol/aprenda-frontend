@@ -3,7 +3,8 @@
 </p>
 <h1 align="center">Aprenda Front-end</h1>
 <p align="center">Central de conhecimento sobre desenvolvimento front-end</p>
-<h6 align="center">Repositório inspirado no <a href="https://github.com/felipeorlando/aprenda-rubyonrails">Aprenda Ruby on Rails</a> do <a href="https://github.com/felipeorlando">Felipe Orlando</a>.</h6>
+<p align="center">Inspirado no <a href="https://github.com/felipeorlando/aprenda-rubyonrails">Aprenda Ruby on Rails</a>.</p>
+
 <a id="user-content-Índice" class="anchor" href="#Índice" aria-hidden="true"></a>
 <p align="center">
 	<a href="#mortar_board-cursos">Cursos</a> •
