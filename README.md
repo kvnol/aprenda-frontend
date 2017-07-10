@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Aprenda Front-end</h1>
 <p align="center">Central de conhecimento sobre desenvolvimento front-end</p>
-
+<h6 align="center">Repositório inspirado no [Aprenda Ruby on Rails](https://github.com/felipeorlando/aprenda-rubyonrails) do [Felipe Orlando](https://github.com/felipeorlando).</h6>
 <a id="user-content-Índice" class="anchor" href="#Índice" aria-hidden="true"></a>
 <p align="center">
 	<a href="#mortar_board-cursos">Cursos</a> •
@@ -93,3 +93,6 @@ Nome | Idioma
 [Hipsters.tech](http://hipsters.tech/) | :brazil:
 
 [Ir para o índice](#Índice)
+
+## License
+[MIT @ Kevin Oliveira](/LICENSE)
