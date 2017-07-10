@@ -58,7 +58,13 @@ Blog | Principal autor | Idioma
 
 [Ir para o índice](#Índice)
 
-## :video_camera: Palestras
+## :video_camera: Palestras (Vídeos)
+Título | Evento | Assunto | Palestrante | Idioma
+:-- | :--: | :--: | :--: | :--:
+[CSS {Grid} Layout: It's evolution baby](https://www.youtube.com/watch?v=94aYg5D8N0s) | [Vale do Carbono](http://valedocarbono.org/conference/) | CSS | [Diogo Moretti](https://github.com/diogomoretti) | :brazil:
+[JS Loves Music](https://www.youtube.com/watch?v=HnQQL8Q9upA) | [BrazilJS Conf 2016](https://braziljs.org/conf/) | JavaScript | [Willian Justen](https://github.com/willianjusten) | :brazil:
+[Linked Data, JSON-LD e Web Semântica](https://www.youtube.com/watch?v=vAjBRcg3ydM) | [BrazilJS Conf 2016](https://braziljs.org/conf/) | JavaScript, Semântica | [Diego Eis](https://github.com/diegoeis) | :brazil:
+
 [Ir para o índice](#Índice)
 
 ## :computer: Screencasts
