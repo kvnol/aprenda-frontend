@@ -24,6 +24,13 @@ Legenda:
 - :large_orange_diamond:: Intermediário
 - :red_circle:: Avançado
 
+Curso | Escola/Site | Nível | Assunto | Autor | Preço
+:-- | :--: | :--: | :--: | :--: | :--:
+[Javascript Ninja](https://blog.da2k.com.br/curso-javascript-ninja/) | Udemy | :green_heart: | JavaScript | [Fernando Daciuk](https://github.com/fdaciuk) | :moneybag::moneybag::moneybag:
+[ReactJS Ninja](https://blog.da2k.com.br/curso-reactjs-ninja/) | Udemy | :green_heart: | ReactJS | [Fernando Daciuk](https://github.com/fdaciuk) | :moneybag::moneybag::moneybag:
+
+[Ir para o índice](#Índice)
+
 ## :book: Livros
 
 Título | Assunto | Formato | Preço | Idioma
