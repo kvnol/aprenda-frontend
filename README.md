@@ -100,6 +100,10 @@ Nome | Tipo | Frequência | Organizadores | Local
 [Ir para o índice](#Índice)
 
 ## :speech_balloon: Comunidades
+Nome | Tipo | Idioma
+:-- | :--: | :--:
+[Front-end Brasil](https://github.com/frontendbr/forum/issues) | Fórum | :brazil:
+
 [Ir para o índice](#Índice)
 
 ## :paperclip: Feeds
