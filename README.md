@@ -93,6 +93,8 @@ Nome | Tipo | Frequência | Organizadores | Local
 [CSS SP](https://www.meetup.com/pt-BR/CSS-SP/) | Meetup | Mensal | [Felipe Fialho](https://github.com/lfeh), [Raphael Fabeni](https://github.com/raphaelfabeni) | SP, Brasil
 [FemugSP](https://www.meetup.com/pt-BR/femugsp/) | Meetup | Mensal | [Lucas Mazza](https://github.com/lucasmazza) | SP, Brasil
 [Frontend SP Meetup](https://www.meetup.com/pt-BR/Frontend-Dev-SP-Meetup/) | Meetup | Mensal | [Shin](https://github.com/shin-monkey) | SP, Brasil
+[Front In BH](http://frontinbh.com.br/) | Conferência | Anual | [Keppelen](https://github.com/keppelen), [Davidson Felipe](https://github.com/davidsonfellipe) | MG, Brasil
+[Front In Sampa](http://www.frontinsampa.com.br/) | Conferência | Anual | [Deivid Marques](https://github.com/deividmarques), [Keit Oliveira](https://github.com/keitoliveira), [Marco Bruno](https://github.com/MarcoBrunoBR) | SP, Brasil
 [HTML SP](https://www.meetup.com/pt-BR/html-sp/) | Meetup | Mensal | [Eduardo Matos](https://github.com/eduardojmatos) | SP, Brasil
 
 [Ir para o índice](#Índice)
