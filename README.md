@@ -26,8 +26,9 @@ Legenda:
 
 Curso | Escola/Site | Nível | Assunto | Autor | Preço
 :-- | :--: | :--: | :--: | :--: | :--:
-[Javascript Ninja](https://blog.da2k.com.br/curso-javascript-ninja/) | Udemy | :green_heart: | JavaScript | [Fernando Daciuk](https://github.com/fdaciuk) | :moneybag::moneybag::moneybag:
-[ReactJS Ninja](https://blog.da2k.com.br/curso-reactjs-ninja/) | Udemy | :green_heart: | ReactJS | [Fernando Daciuk](https://github.com/fdaciuk) | :moneybag::moneybag::moneybag:
+[HTML e CSS](https://www.codecademy.com/pt-BR/learn/web) | Codecademy | :green_heart: | HTML/CSS | [Codecademy](https://www.codecademy.com/) | :free:
+[Javascript Ninja](https://blog.da2k.com.br/curso-javascript-ninja/) | Udemy | :large_orange_diamond: | JavaScript | [Fernando Daciuk](https://github.com/fdaciuk) | :moneybag::moneybag::moneybag:
+[ReactJS Ninja](https://blog.da2k.com.br/curso-reactjs-ninja/) | Udemy | :large_orange_diamond: | ReactJS | [Fernando Daciuk](https://github.com/fdaciuk) | :moneybag::moneybag::moneybag:
 
 [Ir para o índice](#Índice)
 
