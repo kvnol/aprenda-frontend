@@ -69,6 +69,14 @@ Título | Evento | Assunto | Palestrante | Idioma
 [Ir para o índice](#Índice)
 
 ## :computer: Screencasts
+Título | Assunto | Autor | Idioma
+:-- | :--: | :--: | :--:
+[Desvendando a linguagem JavaScript ](https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc) | JavaScript | [Rodrigo Branas](https://github.com/rodrigobranas) | :brazil:
+[Grunt vs Gulp](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTkUx1tVVPumohXVMDwfQcV) | JavaScript | [Rodrigo Branas](https://github.com/rodrigobranas) | :brazil:
+[Node.js](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTFo60Bt972f8HA4Td7WKwq) | JavaScript | [Rodrigo Branas](https://github.com/rodrigobranas) | :brazil:
+[Qualidade de Código](https://www.youtube.com/playlist?list=PLQCmSnNFVYnSpfpwwQGO8QHQ3CcizaZsV) | JavaScript | [Rodrigo Branas](https://github.com/rodrigobranas) | :brazil:
+[Tudo sobre AngularJS](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb) | JavaScript | [Rodrigo Branas](https://github.com/rodrigobranas) | :brazil:
+
 [Ir para o índice](#Índice)
 
 ## :circus_tent: Eventos Ativos
