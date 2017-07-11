@@ -117,5 +117,4 @@ Nome | Idioma
 
 [Ir para o índice](#Índice)
 
-## License
-[MIT @ Kevin Oliveira](/LICENSE)
+<h6 align="center"><a href="/LICENSE">MIT</a> @ Kevin Oliveira</h6>
