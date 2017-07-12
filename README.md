@@ -26,11 +26,11 @@ Legenda:
 
 Curso | Escola/Site | Nível | Assunto | Autor | Preço
 :-- | :--: | :--: | :--: | :--: | :--:
+[Git e Github](https://www.udemy.com/git-e-github-para-iniciantes/) | Udemy | :green_heart: | Git/Github | [Willian Justen](https://github.com/willianjusten) | :free:
 [HTML e CSS](https://www.codecademy.com/pt-BR/learn/web) | Codecademy | :green_heart: | HTML/CSS | [Codecademy](https://www.codecademy.com/) | :free:
 [Javascript Ninja](https://blog.da2k.com.br/curso-javascript-ninja/) | Udemy | :large_orange_diamond: | JavaScript | [Fernando Daciuk](https://github.com/fdaciuk) | :moneybag::moneybag::moneybag:
 [ReactJS Ninja](https://blog.da2k.com.br/curso-reactjs-ninja/) | Udemy | :large_orange_diamond: | ReactJS | [Fernando Daciuk](https://github.com/fdaciuk) | :moneybag::moneybag::moneybag:
 [React/Redux](https://www.udemy.com/react-redux-pt/) | Udemy | :large_orange_diamond: | ReactJS | [Leonardo Moura Leitão](https://github.com/cod3rcursos/) | :moneybag::moneybag::moneybag:
-[Git e Github](https://www.udemy.com/git-e-github-para-iniciantes/) | Udemy | :green_heart: | Git/Github | [Willian Justen](https://github.com/willianjusten) | :free:
 
 
 [Ir para o índice](#Índice)
@@ -75,23 +75,23 @@ Título | Evento | Assunto | Palestrante | Idioma
 [CSS {Grid} Layout: It's evolution baby](https://www.youtube.com/watch?v=94aYg5D8N0s) | [Vale do Carbono](http://valedocarbono.org/conference/) | CSS | [Diogo Moretti](https://github.com/diogomoretti) | :brazil:
 [JS Loves Music](https://www.youtube.com/watch?v=HnQQL8Q9upA) | [BrazilJS Conf 2016](https://braziljs.org/conf/) | JavaScript | [Willian Justen](https://github.com/willianjusten) | :brazil:
 [Linked Data, JSON-LD e Web Semântica](https://www.youtube.com/watch?v=vAjBRcg3ydM) | [BrazilJS Conf 2016](https://braziljs.org/conf/) | JavaScript, Semântica | [Diego Eis](https://github.com/diegoeis) | :brazil:
+[Performance em CSS](https://www.youtube.com/watch?v=m1iV2C44Duc) | [BrazilJS Conf 2012](https://www.youtube.com/watch?v=m1iV2C44Duc) | CSS | [Bernard De Luna](https://github.com/bernarddeluna) | :brazil:
 [Progressive Enhancement](https://www.youtube.com/watch?v=cgn2tug4nTo) | [Frontinsampa 2016](http://www.frontinsampa.com.br/) | Front-end | [Marco Bruno](https://github.com/MarcoBrunoBR) | :brazil:
 [Um Futuro Chamado Web Components](https://www.youtube.com/watch?v=7Q0-E_rZ_Cc) | [BrazilJs Conf 2013](https://braziljs.org/conf) | Web Components | [Zeno Rocha](https://github.com/zenorocha) | :brazil:
-[Performance em CSS](https://www.youtube.com/watch?v=m1iV2C44Duc) | [BrazilJS Conf 2012](https://www.youtube.com/watch?v=m1iV2C44Duc) | CSS | [Bernard De Luna](https://github.com/bernarddeluna) | :brazil:
 
 [Ir para o índice](#Índice)
 
 ## :computer: Screencasts
 Título | Assunto | Autor | Idioma
 :-- | :--: | :--: | :--:
+[Be MEAN: MongoDB](https://www.youtube.com/playlist?list=PL77JVjKTJT2gXHb9FEokJsPEcoOmyF1pY) | MongoDB | [Jean Carlo Nascimento](https://github.com/suissa) | :brazil:
+[Be MEAN: Node.js](https://www.youtube.com/playlist?list=PL77JVjKTJT2hP_lxL88oDo2rJvOskpGfJ) | JavaScript | [Jean Carlo Nascimento](https://github.com/suissa) | :brazil:
+[Be MEAN: Angular1](https://www.youtube.com/playlist?list=PL77JVjKTJT2hfviaP9JV_ZyJWSD4je7Df) | JavaScript | [Jean Carlo Nascimento](https://github.com/suissa) | :brazil:
 [Desvendando a linguagem JavaScript ](https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc) | JavaScript | [Rodrigo Branas](https://github.com/rodrigobranas) | :brazil:
 [Grunt vs Gulp](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTkUx1tVVPumohXVMDwfQcV) | JavaScript | [Rodrigo Branas](https://github.com/rodrigobranas) | :brazil:
 [Node.js](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTFo60Bt972f8HA4Td7WKwq) | JavaScript | [Rodrigo Branas](https://github.com/rodrigobranas) | :brazil:
 [Qualidade de Código](https://www.youtube.com/playlist?list=PLQCmSnNFVYnSpfpwwQGO8QHQ3CcizaZsV) | JavaScript | [Rodrigo Branas](https://github.com/rodrigobranas) | :brazil:
 [Tudo sobre AngularJS](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb) | JavaScript | [Rodrigo Branas](https://github.com/rodrigobranas) | :brazil:
-[Be MEAN: MongoDB](https://www.youtube.com/playlist?list=PL77JVjKTJT2gXHb9FEokJsPEcoOmyF1pY) | MongoDB | [Jean Carlo Nascimento](https://github.com/suissa) | :brazil:
-[Be MEAN: Node.js](https://www.youtube.com/playlist?list=PL77JVjKTJT2hP_lxL88oDo2rJvOskpGfJ) | JavaScript | [Jean Carlo Nascimento](https://github.com/suissa) | :brazil:
-[Be MEAN: Angular1](https://www.youtube.com/playlist?list=PL77JVjKTJT2hfviaP9JV_ZyJWSD4je7Df) | JavaScript | [Jean Carlo Nascimento](https://github.com/suissa) | :brazil:
 [Sass](https://www.youtube.com/playlist?list=PL77JVjKTJT2h4DPhWnTyVurZXugplVa1r) | CSS | [Amanda Vilela](https://github.com/amandavilela) | :brazil:
 
 [Ir para o índice](#Índice)
