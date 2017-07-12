@@ -26,7 +26,7 @@ Legenda:
 
 Curso | Escola/Site | Nível | Assunto | Autor | Preço
 :-- | :--: | :--: | :--: | :--: | :--:
-[Git e Github](https://www.udemy.com/git-e-github-para-iniciantes/) | Udemy | :green_heart: | Git/Github | [Willian Justen](https://github.com/willianjusten) | :free:
+[Git e GitHub](https://www.udemy.com/git-e-github-para-iniciantes/) | Udemy | :green_heart: | Git/Github | [Willian Justen](https://github.com/willianjusten) | :free:
 [HTML e CSS](https://www.codecademy.com/pt-BR/learn/web) | Codecademy | :green_heart: | HTML/CSS | [Codecademy](https://www.codecademy.com/) | :free:
 [Javascript Ninja](https://blog.da2k.com.br/curso-javascript-ninja/) | Udemy | :large_orange_diamond: | JavaScript | [Fernando Daciuk](https://github.com/fdaciuk) | :moneybag::moneybag::moneybag:
 [ReactJS Ninja](https://blog.da2k.com.br/curso-reactjs-ninja/) | Udemy | :large_orange_diamond: | ReactJS | [Fernando Daciuk](https://github.com/fdaciuk) | :moneybag::moneybag::moneybag:
@@ -77,7 +77,7 @@ Título | Evento | Assunto | Palestrante | Idioma
 [Linked Data, JSON-LD e Web Semântica](https://www.youtube.com/watch?v=vAjBRcg3ydM) | [BrazilJS Conf 2016](https://braziljs.org/conf/) | JavaScript, Semântica | [Diego Eis](https://github.com/diegoeis) | :brazil:
 [Performance em CSS](https://www.youtube.com/watch?v=m1iV2C44Duc) | [BrazilJS Conf 2012](https://www.youtube.com/watch?v=m1iV2C44Duc) | CSS | [Bernard De Luna](https://github.com/bernarddeluna) | :brazil:
 [Progressive Enhancement](https://www.youtube.com/watch?v=cgn2tug4nTo) | [Frontinsampa 2016](http://www.frontinsampa.com.br/) | Front-end | [Marco Bruno](https://github.com/MarcoBrunoBR) | :brazil:
-[Um Futuro Chamado Web Components](https://www.youtube.com/watch?v=7Q0-E_rZ_Cc) | [BrazilJs Conf 2013](https://braziljs.org/conf) | Web Components | [Zeno Rocha](https://github.com/zenorocha) | :brazil:
+[Um Futuro Chamado Web Components](https://www.youtube.com/watch?v=7Q0-E_rZ_Cc) | [BrazilJS Conf 2013](https://braziljs.org/conf) | Web Components | [Zeno Rocha](https://github.com/zenorocha) | :brazil:
 
 [Ir para o índice](#Índice)
 
