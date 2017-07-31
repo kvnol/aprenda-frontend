@@ -117,6 +117,8 @@ Nome | Tipo | Frequência | Organizadores | Local
 Nome | Tipo | Idioma
 :-- | :--: | :--:
 [Front-end Brasil](https://github.com/frontendbr/forum/issues) | Fórum | :brazil:
+[Training Center](https://trainingcenter.io/) | Slack | :brazil:
+[React Brazil](https://react-brasil.github.io/react-brasil-slack/) | Slack | :brazil:
 
 [Ir para o índice](#Índice)
 
