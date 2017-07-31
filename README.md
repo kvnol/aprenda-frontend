@@ -68,6 +68,8 @@ Blog | Principal autor | Idioma
 [Nando Moreira](https://nandomoreira.me/blog/) | [Nando Moreira](https://github.com/nandomoreirame) | :brazil:
 [Tableless](http://tableless.com.br/) | [Diego Eis](https://github.com/diegoeis) | :brazil:
 [Willian Justen](https://willianjusten.com.br/) | [Willian Justen](https://github.com/willianjusten) | :brazil:
+[JavaScript Scene](https://medium.com/javascript-scene) | [Eric Elliott](https://github.com/ericelliott) | :us:
+[Vinicius Reis](https://medium.com/@luizvinicius73) | [Vinicius Reis](https://github.com/vinicius73) | :brazil:
 
 [Ir para o índice](#Índice)
 
