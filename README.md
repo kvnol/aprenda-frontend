@@ -132,7 +132,7 @@ Nome | Idioma
 [Hipsters.tech](http://hipsters.tech/) | :brazil:
 [Lambda3](https://www.lambda3.com.br/tag/podcast/) | :brazil:
 [ProdCast](https://www.concrete.com.br/category/prodcast/?categoryId=5) | :brazil:
-[Syntax Podcast](syntax.fm) | :us:
+[Syntax Podcast](http://syntax.fm/) | :us:
 
 [Ir para o índice](#Índice)
 
