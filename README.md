@@ -53,6 +53,8 @@ Título | Assunto | Formato | Preço | Idioma
 [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552/index.html) | JavaScript | E-book | :free: | :brazil:
 [Workflow Front-end](https://www.gitbook.com/book/tapmorales/workflow-front-end/) | Front-end | E-book | :free: | :brazil:
 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) | JavaScript | E-book | :free: | :brazil:
+[Guia de bolso de SVG](https://github.com/jonitrythall/svgpocketguide/blob/master/svgpocketguide-ptbr.md) | SVG | E-book | :free: | :brazil:
+[Eloquent JavaScript](http://braziljs.github.io/eloquente-javascript/) | JavaScript | E-book | :free: | :brazil:
 
 [Ir para o índice](#Índice)
 
@@ -66,6 +68,8 @@ Blog | Principal autor | Idioma
 [Nando Moreira](https://nandomoreira.me/blog/) | [Nando Moreira](https://github.com/nandomoreirame) | :brazil:
 [Tableless](http://tableless.com.br/) | [Diego Eis](https://github.com/diegoeis) | :brazil:
 [Willian Justen](https://willianjusten.com.br/) | [Willian Justen](https://github.com/willianjusten) | :brazil:
+[JavaScript Scene](https://medium.com/javascript-scene) | [Eric Elliott](https://github.com/ericelliott) | :us:
+[Vinicius Reis](https://medium.com/@luizvinicius73) | [Vinicius Reis](https://github.com/vinicius73) | :brazil:
 
 [Ir para o índice](#Índice)
 
@@ -113,6 +117,8 @@ Nome | Tipo | Frequência | Organizadores | Local
 Nome | Tipo | Idioma
 :-- | :--: | :--:
 [Front-end Brasil](https://github.com/frontendbr/forum/issues) | Fórum | :brazil:
+[Training Center](https://trainingcenter.io/) | Slack | :brazil:
+[React Brazil](https://react-brasil.github.io/react-brasil-slack/) | Slack | :brazil:
 
 [Ir para o índice](#Índice)
 
@@ -124,6 +130,9 @@ Nome | Idioma
 :-- | :--:
 [DEVNAESTRADA](http://devnaestrada.com.br/) | :brazil:
 [Hipsters.tech](http://hipsters.tech/) | :brazil:
+[Lambda3](https://www.lambda3.com.br/tag/podcast/) | :brazil:
+[ProdCast](https://www.concrete.com.br/category/prodcast/?categoryId=5) | :brazil:
+[Syntax Podcast](http://syntax.fm/) | :us:
 
 [Ir para o índice](#Índice)
 
