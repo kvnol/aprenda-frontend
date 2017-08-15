@@ -79,6 +79,7 @@ Título | Evento | Assunto | Palestrante | Idioma
 :-- | :--: | :--: | :--: | :--:
 [Acessibilidade na prática para você não esquecer](https://www.youtube.com/watch?v=4URTZHk6tz0) | [Frontinsampa 2016](http://www.frontinsampa.com.br/) | Acessibilidade | [Talita Pagani](https://github.com/talitapagani) | :brazil: 
 [CSS {Grid} Layout: It's evolution baby](https://www.youtube.com/watch?v=94aYg5D8N0s) | [Vale do Carbono](http://valedocarbono.org/conference/) | CSS | [Diogo Moretti](https://github.com/diogomoretti) | :brazil:
+[Isomorfismo pra quê?](https://www.youtube.com/watch?v=T2T-qyp1M9A) | [BrazilJS Conf 2016](https://braziljs.org/conf/) | JavaScript | [Fernanda Bernardo](https://github.com/FernandaBernardo) | :brazil:
 [Jóta Essi Funcional](https://www.youtube.com/watch?v=GQGKnve69DM) | [Frontinsampa 2016](http://www.frontinsampa.com.br/) | JavaScript | [Matheus Marsiglio](https://github.com/mtmr0x) | :brazil:
 [JS Loves Music](https://www.youtube.com/watch?v=HnQQL8Q9upA) | [BrazilJS Conf 2016](https://braziljs.org/conf/) | JavaScript | [Willian Justen](https://github.com/willianjusten) | :brazil:
 [Linked Data, JSON-LD e Web Semântica](https://www.youtube.com/watch?v=vAjBRcg3ydM) | [BrazilJS Conf 2016](https://braziljs.org/conf/) | JavaScript, Semântica | [Diego Eis](https://github.com/diegoeis) | :brazil:
