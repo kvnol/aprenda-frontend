@@ -87,6 +87,7 @@ Título | Evento | Assunto | Palestrante | Idioma
 [Progressive Enhancement](https://www.youtube.com/watch?v=cgn2tug4nTo) | [Frontinsampa 2016](http://www.frontinsampa.com.br/) | Front-end | [Marco Bruno](https://github.com/MarcoBrunoBR) | :brazil:
 [The Creative Developer](https://www.youtube.com/watch?v=LGD6ZeFPX80&t=1389s) | [Frontinsampa 2016](http://www.frontinsampa.com.br/) | Front-end | [Almir Filho](https://github.com/almirfilho) | :brazil:
 [Um Futuro Chamado Web Components](https://www.youtube.com/watch?v=7Q0-E_rZ_Cc) | [BrazilJS Conf 2013](https://braziljs.org/conf) | Web Components | [Zeno Rocha](https://github.com/zenorocha) | :brazil:
+[Web APIs You Didn’t Know Existed](https://www.youtube.com/watch?v=riC-i7bKrGY) | [Front in BH 2016](https://frontinbh.com.br/) | JavaScript | [Zeno Rocha](https://github.com/zenorocha) | :brazil:
 
 [Ir para o índice](#Índice)
 
