@@ -1,5 +1,5 @@
 <p align="center">
-<img src="/cover.png" width="250" alt="Aprenda Front-end">
+<img src="/cover.svg" width="250" alt="Aprenda Front-end">
 </p>
 <h1 align="center">Aprenda Front-end</h1>
 <p align="center">Central de conhecimento sobre desenvolvimento front-end<br>Inspirado no <a href="https://github.com/felipeorlando/aprenda-rubyonrails">Aprenda Ruby on Rails</a> do <a href="https://github.com/felipeorlando/">Felipe Orlando</a></p>
