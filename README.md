@@ -55,7 +55,6 @@ Título | Assunto | Formato | Preço | Idioma
 [Workflow Front-end](https://www.gitbook.com/book/tapmorales/workflow-front-end/) | Front-end | E-book | :free: | :brazil:
 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) | JavaScript | E-book | :free: | :brazil:
 [Guia de bolso de SVG](https://github.com/jonitrythall/svgpocketguide/blob/master/svgpocketguide-ptbr.md) | SVG | E-book | :free: | :brazil:
-[Eloquent JavaScript](http://braziljs.github.io/eloquente-javascript/) | JavaScript | E-book | :free: | :brazil:
 
 [Ir para o índice](#Índice)
 
