@@ -66,11 +66,12 @@ Blog | Principal autor | Idioma
 [Blog do Maujor](http://www.maujor.com/blog/) | [Maurício Samy Silva](https://github.com/maujor) | :brazil:
 [Da2k](http://blog.da2k.com.br/) | [Fernando Daciuk](https://github.com/fdaciuk) | :brazil:
 [Felipe Fialho](http://www.felipefialho.com/blog/) | [Felipe Fialho](https://github.com/lfeh) | :brazil:
+[JavaScript Scene](https://medium.com/javascript-scene) | [Eric Elliott](https://github.com/ericelliott) | :us:
 [Nando Moreira](https://nandomoreira.me/blog/) | [Nando Moreira](https://github.com/nandomoreirame) | :brazil:
 [Tableless](http://tableless.com.br/) | [Diego Eis](https://github.com/diegoeis) | :brazil:
-[Willian Justen](https://willianjusten.com.br/) | [Willian Justen](https://github.com/willianjusten) | :brazil:
-[JavaScript Scene](https://medium.com/javascript-scene) | [Eric Elliott](https://github.com/ericelliott) | :us:
 [Vinicius Reis](https://medium.com/@luizvinicius73) | [Vinicius Reis](https://github.com/vinicius73) | :brazil:
+[Willian Justen](https://willianjusten.com.br/) | [Willian Justen](https://github.com/willianjusten) | :brazil:
+[Zeno Rocha](https://zenorocha.com/articles/) | [Zeno Rocha](https://github.com/zenorocha) | :us:
 
 [Ir para o índice](#Índice)
 
