@@ -80,6 +80,7 @@ Título | Evento | Assunto | Palestrante | Idioma
 [Acessibilidade na prática para você não esquecer](https://www.youtube.com/watch?v=4URTZHk6tz0) | [Frontinsampa 2016](http://www.frontinsampa.com.br/) | Acessibilidade | [Talita Pagani](https://github.com/talitapagani) | :brazil: 
 [CSS {Grid} Layout: It's evolution baby](https://www.youtube.com/watch?v=94aYg5D8N0s) | [Vale do Carbono](http://valedocarbono.org/conference/) | CSS | [Diogo Moretti](https://github.com/diogomoretti) | :brazil:
 [Como encarar o desenvolvimento front-end](https://www.youtube.com/watch?v=4vRCueT_Z4I) | [Front in BH 2016](https://frontinbh.com.br/) | Front-end | [Jean Carlo Emer](https://github.com/jcemer) | :brazil:
+[Como ser um bom dev front-end em 2017](https://www.youtube.com/watch?v=LBxHq3IG4F4) | [Vale do Carbono](http://valedocarbono.org/conference/) | Front-end | [Jaydson Gomes](https://github.com/jaydson) | :brazil:
 [Isomorfismo pra quê?](https://www.youtube.com/watch?v=T2T-qyp1M9A) | [BrazilJS Conf 2016](https://braziljs.org/conf/) | JavaScript | [Fernanda Bernardo](https://github.com/FernandaBernardo) | :brazil:
 [Jóta Essi Funcional](https://www.youtube.com/watch?v=GQGKnve69DM) | [Frontinsampa 2016](http://www.frontinsampa.com.br/) | JavaScript | [Matheus Marsiglio](https://github.com/mtmr0x) | :brazil:
 [JS Loves Music](https://www.youtube.com/watch?v=HnQQL8Q9upA) | [BrazilJS Conf 2016](https://braziljs.org/conf/) | JavaScript | [Willian Justen](https://github.com/willianjusten) | :brazil:
