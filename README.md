@@ -26,6 +26,8 @@ Legenda:
 
 Curso | Escola/Site | Nível | Assunto | Autor | Preço
 :-- | :--: | :--: | :--: | :--: | :--:
+[Angular](https://www.youtube.com/watch?v=tPOMG0D57S0&list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G) | YouTube | :large_orange_diamond: | CSS | [Loiane Groner](https://loiane.com/) | :free:
+[CSS3 com Sass e Compass](https://www.youtube.com/watch?v=D9OpSGViDgA&list=PL3C05B7A66AC502CF) | YouTube | :large_orange_diamond: | CSS | [Loiane Groner](https://loiane.com/) | :free:
 [Functional Programming Beginner](http://paqmind.com/courses/fp-beginner/) | [Paqmind](http://paqmind.com/) | :green_heart: | JavaScript | Paqmind | :free:
 [Git e GitHub](https://www.udemy.com/git-e-github-para-iniciantes/) | Udemy | :green_heart: | Git/Github | [Willian Justen](https://github.com/willianjusten) | :free:
 [HTML e CSS](https://www.codecademy.com/pt-BR/learn/web) | Codecademy | :green_heart: | HTML/CSS | [Codecademy](https://www.codecademy.com/) | :free:
@@ -127,6 +129,7 @@ Nome | Tipo | Idioma
 [Front-end Brasil](https://github.com/frontendbr/forum/issues) | Fórum | :brazil:
 [Training Center](https://trainingcenter.io/) | Slack | :brazil:
 [React Brazil](https://react-brasil.github.io/react-brasil-slack/) | Slack | :brazil:
+[VueJS Brasil](https://vuejs-brasil.herokuapp.com/) | Slack | :brazil:
 
 [Ir para o índice](#Índice)
 
