@@ -128,6 +128,7 @@ Nome | Tipo | Idioma
 [Training Center](https://trainingcenter.io/) | Slack | :brazil:
 [React Brazil](https://react-brasil.github.io/react-brasil-slack/) | Slack | :brazil:
 [VueJS Brasil](https://vuejs-brasil.herokuapp.com/) | Slack | :brazil:
+
 [Ir para o índice](#Índice)
 
 ## :paperclip: Feeds
