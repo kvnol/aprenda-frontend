@@ -28,8 +28,11 @@ Curso | Escola/Site | Nível | Assunto | Autor | Preço
 :-- | :--: | :--: | :--: | :--: | :--:
 [Angular](https://www.youtube.com/watch?v=tPOMG0D57S0&list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G) | YouTube | :large_orange_diamond: | CSS | [Loiane Groner](https://loiane.com/) | :free:
 [CSS3 com Sass e Compass](https://www.youtube.com/watch?v=D9OpSGViDgA&list=PL3C05B7A66AC502CF) | YouTube | :large_orange_diamond: | CSS | [Loiane Groner](https://loiane.com/) | :free:
+[CSS: um passo adiante](https://www.udemy.com/css-um-passo-adiante/?couponCode=APRENDA_FRONTEND) | Udemy | :large_orange_diamond: | CSS | [Tárcio Zemel](https://about.me/tarciozemel) | :moneybag:
+[CSS Grid: o sistema definitivo de layouts](https://www.udemy.com/css-grid-layout/?couponCode=APRENDA_FRONTEND) | Udemy | :green_heart: | CSS | [Tárcio Zemel](https://about.me/tarciozemel) | :moneybag:
 [Começando com React.js](https://jscasts.teachable.com/p/comecando-com-react-js) | Teachable | :green_heart: | ReactJS | [Matheus Lima](https://matheuslima.com/) | :free:
 [Curso Netlify](https://www.youtube.com/watch?v=a1cIjP1bueM&list=PLlAbYrWSYTiMGMxQf9JSoZUU1rgVpGPth) | YouTube | :green_heart: | Deploy | [Willian Justen](https://github.com/willianjusten) | :free:
+[Flexbox: o guia completo](https://www.udemy.com/flexbox-guia-completo/?couponCode=APRENDA_FRONTEND) | Udemy | :green_heart: | CSS | [Tárcio Zemel](https://about.me/tarciozemel) | :moneybag:
 [Functional Programming Beginner](http://paqmind.com/courses/fp-beginner/) | [Paqmind](http://paqmind.com/) | :green_heart: | JavaScript | Paqmind | :free:
 [Git e GitHub](https://www.udemy.com/git-e-github-para-iniciantes/) | Udemy | :green_heart: | Git/Github | [Willian Justen](https://github.com/willianjusten) | :free:
 [HTML e CSS](https://www.codecademy.com/pt-BR/learn/web) | Codecademy | :green_heart: | HTML/CSS | [Codecademy](https://www.codecademy.com/) | :free:
@@ -68,6 +71,7 @@ Blog | Principal autor | Idioma
 :-- | :--: | :--:
 [Blog do Maujor](http://www.maujor.com/blog/) | [Maurício Samy Silva](https://github.com/maujor) | :brazil:
 [Da2k](http://blog.da2k.com.br/) | [Fernando Daciuk](https://github.com/fdaciuk) | :brazil:
+[desenvolvimento para web](http://desenvolvimentoparaweb.com/) | [Tárcio Zemel](https://about.me/tarciozemel) | :brazil:
 [Felipe Fialho](http://www.felipefialho.com/blog/) | [Felipe Fialho](https://github.com/lfeh) | :brazil:
 [JavaScript Scene](https://medium.com/javascript-scene) | [Eric Elliott](https://github.com/ericelliott) | :us:
 [Nando Moreira](https://nandomoreira.me/blog/) | [Nando Moreira](https://github.com/nandomoreirame) | :brazil:
