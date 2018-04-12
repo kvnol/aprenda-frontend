@@ -26,7 +26,7 @@ Legenda:
 
 Curso | Escola/Site | Nível | Assunto | Autor | Preço
 :-- | :--: | :--: | :--: | :--: | :--:
-[Angular](https://www.youtube.com/watch?v=tPOMG0D57S0&list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G) | YouTube | :large_orange_diamond: | CSS | [Loiane Groner](https://loiane.com/) | :free:
+[Angular](https://www.youtube.com/watch?v=tPOMG0D57S0&list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G) | YouTube | :large_orange_diamond: | Angular | [Loiane Groner](https://loiane.com/) | :free:
 [CSS3 com Sass e Compass](https://www.youtube.com/watch?v=D9OpSGViDgA&list=PL3C05B7A66AC502CF) | YouTube | :large_orange_diamond: | CSS | [Loiane Groner](https://loiane.com/) | :free:
 [Começando com React.js](https://jscasts.teachable.com/p/comecando-com-react-js) | Teachable | :green_heart: | ReactJS | [Matheus Lima](https://matheuslima.com/) | :free:
 [Functional Programming Beginner](http://paqmind.com/courses/fp-beginner/) | [Paqmind](http://paqmind.com/) | :green_heart: | JavaScript | Paqmind | :free:
@@ -66,6 +66,7 @@ Título | Assunto | Formato | Preço | Idioma
 Blog | Principal autor | Idioma
 :-- | :--: | :--:
 [Blog do Maujor](http://www.maujor.com/blog/) | [Maurício Samy Silva](https://github.com/maujor) | :brazil:
+[Cangaceiro JavaScript](http://cangaceirojavascript.com.br/) | [Flávio Almeida](https://github.com/flaviohenriquealmeida) | :brazil:
 [Da2k](http://blog.da2k.com.br/) | [Fernando Daciuk](https://github.com/fdaciuk) | :brazil:
 [Felipe Fialho](http://www.felipefialho.com/blog/) | [Felipe Fialho](https://github.com/lfeh) | :brazil:
 [JavaScript Scene](https://medium.com/javascript-scene) | [Eric Elliott](https://github.com/ericelliott) | :us:
