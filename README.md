@@ -26,7 +26,7 @@ Legenda:
 
 Curso | Escola/Site | Nível | Assunto | Autor | Preço
 :-- | :--: | :--: | :--: | :--: | :--:
-[Angular](https://www.youtube.com/watch?v=tPOMG0D57S0&list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G) | YouTube | :large_orange_diamond: | CSS | [Loiane Groner](https://loiane.com/) | :free:
+[Angular](https://www.youtube.com/watch?v=tPOMG0D57S0&list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G) | YouTube | :large_orange_diamond: | Angular | [Loiane Groner](https://loiane.com/) | :free:
 [CSS3 com Sass e Compass](https://www.youtube.com/watch?v=D9OpSGViDgA&list=PL3C05B7A66AC502CF) | YouTube | :large_orange_diamond: | CSS | [Loiane Groner](https://loiane.com/) | :free:
 [CSS: um passo adiante](https://www.udemy.com/css-um-passo-adiante/?couponCode=APRENDA_FRONTEND) | Udemy | :large_orange_diamond: | CSS | [Tárcio Zemel](https://about.me/tarciozemel) | :moneybag:
 [CSS Grid: o sistema definitivo de layouts](https://www.udemy.com/css-grid-layout/?couponCode=APRENDA_FRONTEND) | Udemy | :green_heart: | CSS | [Tárcio Zemel](https://about.me/tarciozemel) | :moneybag:
@@ -70,6 +70,7 @@ Título | Assunto | Formato | Preço | Idioma
 Blog | Principal autor | Idioma
 :-- | :--: | :--:
 [Blog do Maujor](http://www.maujor.com/blog/) | [Maurício Samy Silva](https://github.com/maujor) | :brazil:
+[Cangaceiro JavaScript](http://cangaceirojavascript.com.br/) | [Flávio Almeida](https://github.com/flaviohenriquealmeida) | :brazil:
 [Da2k](http://blog.da2k.com.br/) | [Fernando Daciuk](https://github.com/fdaciuk) | :brazil:
 [desenvolvimento para web](http://desenvolvimentoparaweb.com/) | [Tárcio Zemel](https://about.me/tarciozemel) | :brazil:
 [Felipe Fialho](http://www.felipefialho.com/blog/) | [Felipe Fialho](https://github.com/lfeh) | :brazil:
