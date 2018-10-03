@@ -40,6 +40,8 @@ Curso | Escola/Site | Nível | Assunto | Autor | Preço
 [Node.js Beginner](http://paqmind.com/courses/nodejs-beginner/) | Paqmind | :green_heart: | JavaScript | [Paqmind](http://paqmind.com/) | :free:
 [ReactJS Ninja](https://blog.da2k.com.br/curso-reactjs-ninja/) | Udemy | :large_orange_diamond: | ReactJS | [Fernando Daciuk](https://github.com/fdaciuk) | :moneybag::moneybag::moneybag:
 [React/Redux](https://www.udemy.com/react-redux-pt/) | Udemy | :large_orange_diamond: | ReactJS | [Leonardo Moura Leitão](https://github.com/cod3rcursos/) | :moneybag::moneybag::moneybag:
+[Vue/Vuex](https://www.udemy.com/vuejs-2-the-complete-guide/) | Udemy | :large_orange_diamond: | Vue.js | [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/) | :moneybag:
+[Vue Fundamentals](https://vueschool.io/courses/vuejs-fundamentals) | Vueschool | :large_orange_diamond: | Vue.js | [VueSchool](https://vueschool.io) | :free:
 
 [Ir para o índice](#Índice)
 
@@ -151,6 +153,7 @@ Nome | Idioma
 [Lambda3](https://www.lambda3.com.br/tag/podcast/) | :brazil:
 [ProdCast](https://www.concrete.com.br/category/prodcast/?categoryId=5) | :brazil:
 [Syntax Podcast](http://syntax.fm/) | :us:
+[Fullstack Radio](http://fullstackradio.com) | :us:
 
 [Ir para o índice](#Índice)
 
