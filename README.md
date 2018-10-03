@@ -149,11 +149,12 @@ Nome | Tipo | Idioma
 Nome | Idioma
 :-- | :--:
 [DEVNAESTRADA](http://devnaestrada.com.br/) | :brazil:
+[Fullstack Radio](http://fullstackradio.com) | :us:
 [Hipsters.tech](http://hipsters.tech/) | :brazil:
 [Lambda3](https://www.lambda3.com.br/tag/podcast/) | :brazil:
 [ProdCast](https://www.concrete.com.br/category/prodcast/?categoryId=5) | :brazil:
+[QuebraDev](http://quebradev.com.br/) | :brazil:
 [Syntax Podcast](http://syntax.fm/) | :us:
-[Fullstack Radio](http://fullstackradio.com) | :us:
 
 [Ir para o índice](#Índice)
 
