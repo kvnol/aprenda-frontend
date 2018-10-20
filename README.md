@@ -148,12 +148,17 @@ Nome | Tipo | Idioma
 ## :sound: Podcasts
 Nome | Idioma
 :-- | :--:
-[DEVNAESTRADA](http://devnaestrada.com.br/) | :brazil:
+[DevCast](https://soundcloud.com/devmedia) | :brazil:
+[Dev & Community Cast](http://devcommunitycast.com.br/) | :brazil:
+[Dev na Estrada](http://devnaestrada.com.br/) | :brazil:
 [Fullstack Radio](http://fullstackradio.com) | :us:
 [Hipsters.tech](http://hipsters.tech/) | :brazil:
 [Lambda3](https://www.lambda3.com.br/tag/podcast/) | :brazil:
+[PodProgramar](https://podprogramar.com.br/category/podcast/) | :brazil:
+[PodTag](https://podtag.com.br/) | :brazil:
 [ProdCast](https://www.concrete.com.br/category/prodcast/?categoryId=5) | :brazil:
 [QuebraDev](http://quebradev.com.br/) | :brazil:
+[SudoCast](http://sudocast.com.br/) | :brazil:
 [Syntax Podcast](http://syntax.fm/) | :us:
 
 [Ir para o índice](#Índice)
