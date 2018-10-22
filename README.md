@@ -155,6 +155,7 @@ Nome | Idioma
 [ProdCast](https://www.concrete.com.br/category/prodcast/?categoryId=5) | :brazil:
 [QuebraDev](http://quebradev.com.br/) | :brazil:
 [Syntax Podcast](http://syntax.fm/) | :us:
+[Lovelace Podcast](https://twitter.com/lovelacepodcast) | :brazil:
 
 [Ir para o índice](#Índice)
 
