@@ -42,6 +42,13 @@ Curso | Escola/Site | Nível | Assunto | Autor | Preço
 [React/Redux](https://www.udemy.com/react-redux-pt/) | Udemy | :large_orange_diamond: | ReactJS | [Leonardo Moura Leitão](https://github.com/cod3rcursos/) | :moneybag::moneybag::moneybag:
 [Vue/Vuex](https://www.udemy.com/vuejs-2-the-complete-guide/) | Udemy | :large_orange_diamond: | Vue.js | [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/) | :moneybag:
 [Vue Fundamentals](https://vueschool.io/courses/vuejs-fundamentals) | Vueschool | :large_orange_diamond: | Vue.js | [VueSchool](https://vueschool.io) | :free:
+[Desenvolvedor Front-End](https://www.alura.com.br/carreira-desenvolvedor-front-end) | Alura | :green_heart: | HTML/CSS/JS | Alura | :moneybag:
+[Desenvolvedor Javascript](https://www.alura.com.br/carreira-desenvolvedor-javascript) | Alura | :large_orange_diamond: | Javascript | Alura | :moneybag:
+[Engenheiro Javascript](https://www.alura.com.br/carreira-engenheiro-javascript) | Alura | :red_circle: | Javascript | Alura | :moneybag:
+[Desenvolvedor Vuejs](https://www.alura.com.br/carreira-desenvolvedor-vuejs) | Alura | :large_orange_diamond: | Vuejs | Alura | :moneybag:
+[Desenvolvedor Angular](https://www.alura.com.br/carreira-angular) | Alura | :large_orange_diamond: | Angular | Alura | :moneybag:
+[Desenvolvedor React](https://www.alura.com.br/carreira-programador-react) | Alura | :large_orange_diamond: | React/Redux | Alura | :moneybag:
+
 
 [Ir para o índice](#Índice)
 
