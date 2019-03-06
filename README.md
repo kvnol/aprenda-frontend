@@ -71,6 +71,14 @@ Título | Assunto | Formato | Preço | Idioma
 [Workflow Front-end](https://www.gitbook.com/book/tapmorales/workflow-front-end/) | Front-end | E-book | :free: | :brazil:
 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) | JavaScript | E-book | :free: | :brazil:
 [Guia de bolso de SVG](https://github.com/jonitrythall/svgpocketguide/blob/master/svgpocketguide-ptbr.md) | SVG | E-book | :free: | :brazil:
+[Vue.js](https://www.casadocodigo.com.br/products/livro-vue) | Vue.js | E-book | :moneybag: | :brazil:
+[Progressive Web Apps](https://www.casadocodigo.com.br/products/livro-pwa) | React/PWA | E-book | :moneybag: | :brazil:
+[Turbine seu CSS](https://www.casadocodigo.com.br/products/livro-turbine-css) | CSS | E-book | :moneybag: | :brazil:
+[CSS Eficiente](https://www.casadocodigo.com.br/products/livro-css-eficiente) | CSS | E-book | :moneybag: | :brazil:
+[CSS e HTML](https://www.casadocodigo.com.br/products/livro-html-css) | CSS/HTML | E-book | :moneybag: | :brazil:
+[SASS](https://www.casadocodigo.com.br/products/livro-sass) | SASS | E-book | :moneybag: | :brazil:
+[Web Design Responsivo](https://www.casadocodigo.com.br/products/livro-web-design-responsivo) | HTML/CSS | E-book | :moneybag: | :brazil:
+
 
 [Ir para o índice](#Índice)
 
