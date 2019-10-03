@@ -143,7 +143,7 @@ Nome | Tipo | Frequência | Organizadores | Local
 [Frontend SP Meetup](https://www.meetup.com/pt-BR/Frontend-Dev-SP-Meetup/) | Meetup | Mensal | [Shin](https://github.com/shin-monkey) | SP, Brasil
 [Front In BH](http://frontinbh.com.br/) | Conferência | Anual | [Keppelen](https://github.com/keppelen), [Davidson Felipe](https://github.com/davidsonfellipe) | MG, Brasil
 [Front In Sampa](http://www.frontinsampa.com.br/) | Conferência | Anual | [Deivid Marques](https://github.com/deividmarques), [Keit Oliveira](https://github.com/keitoliveira), [Marco Bruno](https://github.com/MarcoBrunoBR) | SP, Brasil
-[HTML SP](https://www.meetup.com/pt-BR/html-sp/) | Meetup | Mensal | [Eduardo Matos](https://github.com/eduardojmatos) | SP, Brasil
+[HTML SP](https://www.meetup.com/pt-BR/html-sp/) | Meetup | Mensal | Vinicius Rossi | SP, Brasil
 
 [Ir para o índice](#Índice)
 
