@@ -26,7 +26,7 @@ Legenda:
 
 Curso | Escola/Site | Nível | Assunto | Autor | Preço
 :-- | :--: | :--: | :--: | :--: | :--:
-[Angular](https://www.youtube.com/watch?v=tPOMG0D57S0&list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G) | YouTube | :large_orange_diamond: | CSS | [Loiane Groner](https://loiane.com/) | :free:
+[Angular](https://www.youtube.com/watch?v=tPOMG0D57S0&list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G) | YouTube | :large_orange_diamond: | Angular | [Loiane Groner](https://loiane.com/) | :free:
 [CSS3 com Sass e Compass](https://www.youtube.com/watch?v=D9OpSGViDgA&list=PL3C05B7A66AC502CF) | YouTube | :large_orange_diamond: | CSS | [Loiane Groner](https://loiane.com/) | :free:
 [CSS: um passo adiante](https://www.udemy.com/css-um-passo-adiante/?couponCode=APRENDA_FRONTEND) | Udemy | :large_orange_diamond: | CSS | [Tárcio Zemel](https://about.me/tarciozemel) | :moneybag:
 [CSS Grid: o sistema definitivo de layouts](https://www.udemy.com/css-grid-layout/?couponCode=APRENDA_FRONTEND) | Udemy | :green_heart: | CSS | [Tárcio Zemel](https://about.me/tarciozemel) | :moneybag:
@@ -42,6 +42,17 @@ Curso | Escola/Site | Nível | Assunto | Autor | Preço
 [React/Redux](https://www.udemy.com/react-redux-pt/) | Udemy | :large_orange_diamond: | ReactJS | [Leonardo Moura Leitão](https://github.com/cod3rcursos/) | :moneybag::moneybag::moneybag:
 [Vue.js do jeito ninja](https://www.youtube.com/playlist?list=PLcoYAcR89n-qq1vGRbaUiV6Q9puy0qigW) | Youtube | :green_heart: | Vue Js | [Tiago Matos](http://www.tiagomatos.com) | :free:
 [Gatsby: Crie um site PWA com React, GraphQL e Netlify CMS](https://www.udemy.com/course/gatsby-crie-um-site-pwa-com-react-graphql-e-netlify-cms/) | Udemy | :large_orange_diamond: | ReactJS | [Willian Justen](https://willianjusten.com.br/) | :moneybag::moneybag::moneybag:
+[Vue/Vuex](https://www.udemy.com/vuejs-2-the-complete-guide/) | Udemy | :large_orange_diamond: | Vue.js | [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/) | :moneybag:
+[Vue Fundamentals](https://vueschool.io/courses/vuejs-fundamentals) | Vueschool | :large_orange_diamond: | Vue.js | [VueSchool](https://vueschool.io) | :free:
+[Desenvolvedor Front-End](https://www.alura.com.br/carreira-desenvolvedor-front-end) | Alura | :green_heart: | HTML/CSS/JS | Alura | :moneybag:
+[Desenvolvedor Javascript](https://www.alura.com.br/carreira-desenvolvedor-javascript) | Alura | :large_orange_diamond: | Javascript | Alura | :moneybag:
+[Engenheiro Javascript](https://www.alura.com.br/carreira-engenheiro-javascript) | Alura | :red_circle: | Javascript | Alura | :moneybag:
+[Desenvolvedor Vuejs](https://www.alura.com.br/carreira-desenvolvedor-vuejs) | Alura | :large_orange_diamond: | Vuejs | Alura | :moneybag:
+[Desenvolvedor Angular](https://www.alura.com.br/carreira-angular) | Alura | :large_orange_diamond: | Angular | Alura | :moneybag:
+[Desenvolvedor React](https://www.alura.com.br/carreira-programador-react) | Alura | :large_orange_diamond: | React/Redux | Alura | :moneybag:
+[Front-end em geral](https://www.schoolofnet.com/planos-de-estudo/programacao/frontend) | School of Net | :large_orange_diamond: | Angular, React, Vue, Javascript e etc | School of net | :moneybag:
+[Curso HTML 5](https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o) | YouTube | :green_heart: | HTML 5 | Curso em Vídeo | :free:
+[Curso de JavaScript para iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) | YouTube | :green_heart: | HTML 5 | Curso em Vídeo | :free:
 
 [Ir para o índice](#Índice)
 
@@ -64,6 +75,14 @@ Título | Assunto | Formato | Preço | Idioma
 [Workflow Front-end](https://www.gitbook.com/book/tapmorales/workflow-front-end/) | Front-end | E-book | :free: | :brazil:
 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) | JavaScript | E-book | :free: | :brazil:
 [Guia de bolso de SVG](https://github.com/jonitrythall/svgpocketguide/blob/master/svgpocketguide-ptbr.md) | SVG | E-book | :free: | :brazil:
+[Vue.js](https://www.casadocodigo.com.br/products/livro-vue) | Vue.js | E-book | :moneybag: | :brazil:
+[Progressive Web Apps](https://www.casadocodigo.com.br/products/livro-pwa) | React/PWA | E-book | :moneybag: | :brazil:
+[Turbine seu CSS](https://www.casadocodigo.com.br/products/livro-turbine-css) | CSS | E-book | :moneybag: | :brazil:
+[CSS Eficiente](https://www.casadocodigo.com.br/products/livro-css-eficiente) | CSS | E-book | :moneybag: | :brazil:
+[CSS e HTML](https://www.casadocodigo.com.br/products/livro-html-css) | CSS/HTML | E-book | :moneybag: | :brazil:
+[SASS](https://www.casadocodigo.com.br/products/livro-sass) | SASS | E-book | :moneybag: | :brazil:
+[Web Design Responsivo](https://www.casadocodigo.com.br/products/livro-web-design-responsivo) | HTML/CSS | E-book | :moneybag: | :brazil:
+
 
 [Ir para o índice](#Índice)
 
@@ -72,6 +91,7 @@ Título | Assunto | Formato | Preço | Idioma
 Blog | Principal autor | Idioma
 :-- | :--: | :--:
 [Blog do Maujor](http://www.maujor.com/blog/) | [Maurício Samy Silva](https://github.com/maujor) | :brazil:
+[Cangaceiro JavaScript](http://cangaceirojavascript.com.br/) | [Flávio Almeida](https://github.com/flaviohenriquealmeida) | :brazil:
 [Da2k](http://blog.da2k.com.br/) | [Fernando Daciuk](https://github.com/fdaciuk) | :brazil:
 [desenvolvimento para web](http://desenvolvimentoparaweb.com/) | [Tárcio Zemel](https://about.me/tarciozemel) | :brazil:
 [Felipe Fialho](http://www.felipefialho.com/blog/) | [Felipe Fialho](https://github.com/lfeh) | :brazil:
@@ -81,6 +101,8 @@ Blog | Principal autor | Idioma
 [Vinicius Reis](https://medium.com/@luizvinicius73) | [Vinicius Reis](https://github.com/vinicius73) | :brazil:
 [Willian Justen](https://willianjusten.com.br/) | [Willian Justen](https://github.com/willianjusten) | :brazil:
 [Zeno Rocha](https://zenorocha.com/articles/) | [Zeno Rocha](https://github.com/zenorocha) | :us:
+[School of net](https://blog.schoolofnet.com/) | [School of net](https://github.com/schoolofnetcom) | :brazil:
+[Zup](https://www.zup.com.br/blog) | [Zup](https://github.com/ZupIT) | :brazil:
 
 [Ir para o índice](#Índice)
 
@@ -127,7 +149,7 @@ Nome | Tipo | Frequência | Organizadores | Local
 [Frontend SP Meetup](https://www.meetup.com/pt-BR/Frontend-Dev-SP-Meetup/) | Meetup | Mensal | [Shin](https://github.com/shin-monkey) | SP, Brasil
 [Front In BH](http://frontinbh.com.br/) | Conferência | Anual | [Keppelen](https://github.com/keppelen), [Davidson Felipe](https://github.com/davidsonfellipe) | MG, Brasil
 [Front In Sampa](http://www.frontinsampa.com.br/) | Conferência | Anual | [Deivid Marques](https://github.com/deividmarques), [Keit Oliveira](https://github.com/keitoliveira), [Marco Bruno](https://github.com/MarcoBrunoBR) | SP, Brasil
-[HTML SP](https://www.meetup.com/pt-BR/html-sp/) | Meetup | Mensal | [Eduardo Matos](https://github.com/eduardojmatos) | SP, Brasil
+[HTML SP](https://www.meetup.com/pt-BR/html-sp/) | Meetup | Mensal | Vinicius Rossi | SP, Brasil
 
 [Ir para o índice](#Índice)
 
@@ -148,10 +170,13 @@ Nome | Tipo | Idioma
 Nome | Idioma
 :-- | :--:
 [DEVNAESTRADA](http://devnaestrada.com.br/) | :brazil:
+[Fullstack Radio](http://fullstackradio.com) | :us:
 [Hipsters.tech](http://hipsters.tech/) | :brazil:
 [Lambda3](https://www.lambda3.com.br/tag/podcast/) | :brazil:
 [ProdCast](https://www.concrete.com.br/category/prodcast/?categoryId=5) | :brazil:
+[QuebraDev](http://quebradev.com.br/) | :brazil:
 [Syntax Podcast](http://syntax.fm/) | :us:
+[Lovelace Podcast](https://twitter.com/lovelacepodcast) | :brazil:
 
 [Ir para o índice](#Índice)
 
