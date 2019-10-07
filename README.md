@@ -48,6 +48,9 @@ Curso | Escola/Site | Nível | Assunto | Autor | Preço
 [Desenvolvedor Vuejs](https://www.alura.com.br/carreira-desenvolvedor-vuejs) | Alura | :large_orange_diamond: | Vuejs | Alura | :moneybag:
 [Desenvolvedor Angular](https://www.alura.com.br/carreira-angular) | Alura | :large_orange_diamond: | Angular | Alura | :moneybag:
 [Desenvolvedor React](https://www.alura.com.br/carreira-programador-react) | Alura | :large_orange_diamond: | React/Redux | Alura | :moneybag:
+[Front-end em geral](https://www.schoolofnet.com/planos-de-estudo/programacao/frontend) | School of Net | :large_orange_diamond: | Angular, React, Vue, Javascript e etc | School of net | :moneybag:
+[Curso HTML 5](https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o) | YouTube | :green_heart: | HTML 5 | Curso em Vídeo | :free:
+[Curso de JavaScript para iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) | YouTube | :green_heart: | HTML 5 | Curso em Vídeo | :free:
 
 
 [Ir para o índice](#Índice)
@@ -97,6 +100,8 @@ Blog | Principal autor | Idioma
 [Vinicius Reis](https://medium.com/@luizvinicius73) | [Vinicius Reis](https://github.com/vinicius73) | :brazil:
 [Willian Justen](https://willianjusten.com.br/) | [Willian Justen](https://github.com/willianjusten) | :brazil:
 [Zeno Rocha](https://zenorocha.com/articles/) | [Zeno Rocha](https://github.com/zenorocha) | :us:
+[School of net](https://blog.schoolofnet.com/) | [School of net](https://github.com/schoolofnetcom) | :brazil:
+[Zup](https://www.zup.com.br/blog) | [Zup](https://github.com/ZupIT) | :brazil:
 
 [Ir para o índice](#Índice)
 
