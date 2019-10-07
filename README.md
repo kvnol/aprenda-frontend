@@ -40,6 +40,8 @@ Curso | Escola/Site | Nível | Assunto | Autor | Preço
 [Node.js Beginner](http://paqmind.com/courses/nodejs-beginner/) | Paqmind | :green_heart: | JavaScript | [Paqmind](http://paqmind.com/) | :free:
 [ReactJS Ninja](https://blog.da2k.com.br/curso-reactjs-ninja/) | Udemy | :large_orange_diamond: | ReactJS | [Fernando Daciuk](https://github.com/fdaciuk) | :moneybag::moneybag::moneybag:
 [React/Redux](https://www.udemy.com/react-redux-pt/) | Udemy | :large_orange_diamond: | ReactJS | [Leonardo Moura Leitão](https://github.com/cod3rcursos/) | :moneybag::moneybag::moneybag:
+[Vue.js do jeito ninja](https://www.youtube.com/playlist?list=PLcoYAcR89n-qq1vGRbaUiV6Q9puy0qigW) | Youtube | :green_heart: | Vue Js | [Tiago Matos](http://www.tiagomatos.com) | :free:
+[Gatsby: Crie um site PWA com React, GraphQL e Netlify CMS](https://www.udemy.com/course/gatsby-crie-um-site-pwa-com-react-graphql-e-netlify-cms/) | Udemy | :large_orange_diamond: | ReactJS | [Willian Justen](https://willianjusten.com.br/) | :moneybag::moneybag::moneybag:
 
 [Ir para o índice](#Índice)
 
