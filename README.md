@@ -40,6 +40,8 @@ Curso | Escola/Site | Nível | Assunto | Autor | Preço
 [Node.js Beginner](http://paqmind.com/courses/nodejs-beginner/) | Paqmind | :green_heart: | JavaScript | [Paqmind](http://paqmind.com/) | :free:
 [ReactJS Ninja](https://blog.da2k.com.br/curso-reactjs-ninja/) | Udemy | :large_orange_diamond: | ReactJS | [Fernando Daciuk](https://github.com/fdaciuk) | :moneybag::moneybag::moneybag:
 [React/Redux](https://www.udemy.com/react-redux-pt/) | Udemy | :large_orange_diamond: | ReactJS | [Leonardo Moura Leitão](https://github.com/cod3rcursos/) | :moneybag::moneybag::moneybag:
+[Vue.js do jeito ninja](https://www.youtube.com/playlist?list=PLcoYAcR89n-qq1vGRbaUiV6Q9puy0qigW) | Youtube | :green_heart: | Vue Js | [Tiago Matos](http://www.tiagomatos.com) | :free:
+[Gatsby: Crie um site PWA com React, GraphQL e Netlify CMS](https://www.udemy.com/course/gatsby-crie-um-site-pwa-com-react-graphql-e-netlify-cms/) | Udemy | :large_orange_diamond: | ReactJS | [Willian Justen](https://willianjusten.com.br/) | :moneybag::moneybag::moneybag:
 [Vue/Vuex](https://www.udemy.com/vuejs-2-the-complete-guide/) | Udemy | :large_orange_diamond: | Vue.js | [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/) | :moneybag:
 [Vue Fundamentals](https://vueschool.io/courses/vuejs-fundamentals) | Vueschool | :large_orange_diamond: | Vue.js | [VueSchool](https://vueschool.io) | :free:
 [Desenvolvedor Front-End](https://www.alura.com.br/carreira-desenvolvedor-front-end) | Alura | :green_heart: | HTML/CSS/JS | Alura | :moneybag:
@@ -51,7 +53,6 @@ Curso | Escola/Site | Nível | Assunto | Autor | Preço
 [Front-end em geral](https://www.schoolofnet.com/planos-de-estudo/programacao/frontend) | School of Net | :large_orange_diamond: | Angular, React, Vue, Javascript e etc | School of net | :moneybag:
 [Curso HTML 5](https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o) | YouTube | :green_heart: | HTML 5 | Curso em Vídeo | :free:
 [Curso de JavaScript para iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) | YouTube | :green_heart: | HTML 5 | Curso em Vídeo | :free:
-
 
 [Ir para o índice](#Índice)
 
