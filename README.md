@@ -122,6 +122,7 @@ Título | Evento | Assunto | Palestrante | Idioma
 [The Creative Developer](https://www.youtube.com/watch?v=LGD6ZeFPX80&t=1389s) | [Frontinsampa 2016](http://www.frontinsampa.com.br/) | Front-end | [Almir Filho](https://github.com/almirfilho) | :brazil:
 [Um Futuro Chamado Web Components](https://www.youtube.com/watch?v=7Q0-E_rZ_Cc) | [BrazilJS Conf 2013](https://braziljs.org/conf) | Web Components | [Zeno Rocha](https://github.com/zenorocha) | :brazil:
 [Web APIs You Didn’t Know Existed](https://www.youtube.com/watch?v=riC-i7bKrGY) | [Front in BH 2016](https://frontinbh.com.br/) | JavaScript | [Zeno Rocha](https://github.com/zenorocha) | :brazil:
+[Clean Code (transforme a sua carreira de desenvolvedor)](https://www.youtube.com/watch?v=4EnLAQprzJU) | [SuperTalks da Supero TI](https://www.sympla.com.br/super-talks---edicao-developers__805707) | Semântica | [Rodrigo Branas](https://github.com/rodrigobranas) | :brazil:
 
 [Ir para o índice](#Índice)
 
