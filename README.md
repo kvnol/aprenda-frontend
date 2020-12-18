@@ -103,6 +103,7 @@ Blog | Principal autor | Idioma
 [Zeno Rocha](https://zenorocha.com/articles/) | [Zeno Rocha](https://github.com/zenorocha) | :us:
 [School of net](https://blog.schoolofnet.com/) | [School of net](https://github.com/schoolofnetcom) | :brazil:
 [Zup](https://www.zup.com.br/blog) | [Zup](https://github.com/ZupIT) | :brazil:
+[Marco Bruno](https://marcobrunobr.medium.com/) | [Marco Bruno](https://github.com/marcobrunodev) | :brazil:
 
 [Ir para o índice](#Índice)
 
