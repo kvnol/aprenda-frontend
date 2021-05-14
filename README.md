@@ -53,6 +53,9 @@ Curso | Escola/Site | Nível | Assunto | Autor | Preço
 [Front-end em geral](https://www.schoolofnet.com/planos-de-estudo/programacao/frontend) | School of Net | :large_orange_diamond: | Angular, React, Vue, Javascript e etc | School of net | :moneybag:
 [Curso HTML 5](https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o) | YouTube | :green_heart: | HTML 5 | Curso em Vídeo | :free:
 [Curso de JavaScript para iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) | YouTube | :green_heart: | HTML 5 | Curso em Vídeo | :free:
+[Angular 9 - Essencial](https://www.cod3r.com.br/courses/angular-9-essencial) | Cod3r | :large_orange_diamond: | Angular | [Cod3r](https://www.cod3r.com.br/) | :free:
+[Desenvolvimento SPA com Angular](https://desenvolvedor.io/curso-online-desenvolvimento-spa-com-angular) | desenvolvedor.io | :large_orange_diamond: | Angular | [desenvolvedor.io](https://desenvolvedor.io/) | :moneybag:
+[Desenvolvimento Avançado em Angular](https://desenvolvedor.io/curso-online-desenvolvimento-avancado-em-angular) | desenvolvedor.io | :red_circle: | Angular | [desenvolvedor.io](https://desenvolvedor.io/) | :moneybag::moneybag::moneybag:
 
 [Ir para o índice](#Índice)
 
@@ -110,7 +113,7 @@ Blog | Principal autor | Idioma
 ## :video_camera: Palestras (Vídeos)
 Título | Evento | Assunto | Palestrante | Idioma
 :-- | :--: | :--: | :--: | :--:
-[Acessibilidade na prática para você não esquecer](https://www.youtube.com/watch?v=4URTZHk6tz0) | [Frontinsampa 2016](http://www.frontinsampa.com.br/) | Acessibilidade | [Talita Pagani](https://github.com/talitapagani) | :brazil: 
+[Acessibilidade na prática para você não esquecer](https://www.youtube.com/watch?v=4URTZHk6tz0) | [Frontinsampa 2016](http://www.frontinsampa.com.br/) | Acessibilidade | [Talita Pagani](https://github.com/talitapagani) | :brazil:
 [CSS {Grid} Layout: It's evolution baby](https://www.youtube.com/watch?v=94aYg5D8N0s) | [Vale do Carbono](http://valedocarbono.org/conference/) | CSS | [Diogo Moretti](https://github.com/diogomoretti) | :brazil:
 [Como encarar o desenvolvimento front-end](https://www.youtube.com/watch?v=4vRCueT_Z4I) | [Front in BH 2016](https://frontinbh.com.br/) | Front-end | [Jean Carlo Emer](https://github.com/jcemer) | :brazil:
 [Como ser um bom dev front-end em 2017](https://www.youtube.com/watch?v=LBxHq3IG4F4) | [Vale do Carbono](http://valedocarbono.org/conference/) | Front-end | [Jaydson Gomes](https://github.com/jaydson) | :brazil:
