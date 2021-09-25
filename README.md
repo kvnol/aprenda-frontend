@@ -19,43 +19,38 @@
 
 ## :mortar_board: Cursos
 
-Legenda:
-- :green_heart:: Básico
-- :large_orange_diamond:: Intermediário
-- :red_circle:: Avançado
-
 Curso | Escola/Site | Nível | Assunto | Autor | Preço
 :-- | :--: | :--: | :--: | :--: | :--:
-[Angular](https://www.youtube.com/watch?v=tPOMG0D57S0&list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G) | YouTube | :large_orange_diamond: | Angular | [Loiane Groner](https://loiane.com/) | :free:
-[CSS3 com Sass e Compass](https://www.youtube.com/watch?v=D9OpSGViDgA&list=PL3C05B7A66AC502CF) | YouTube | :large_orange_diamond: | CSS | [Loiane Groner](https://loiane.com/) | :free:
-[CSS: um passo adiante](https://www.udemy.com/css-um-passo-adiante/?couponCode=APRENDA_FRONTEND) | Udemy | :large_orange_diamond: | CSS | [Tárcio Zemel](https://about.me/tarciozemel) | :moneybag:
-[CSS Grid: o sistema definitivo de layouts](https://www.udemy.com/css-grid-layout/?couponCode=APRENDA_FRONTEND) | Udemy | :green_heart: | CSS | [Tárcio Zemel](https://about.me/tarciozemel) | :moneybag:
-[Começando com React.js](https://jscasts.teachable.com/p/comecando-com-react-js) | Teachable | :green_heart: | ReactJS | [Matheus Lima](https://matheuslima.com/) | :free:
-[Curso Netlify](https://www.youtube.com/watch?v=a1cIjP1bueM&list=PLlAbYrWSYTiMGMxQf9JSoZUU1rgVpGPth) | YouTube | :green_heart: | Deploy | [Willian Justen](https://github.com/willianjusten) | :free:
-[Flexbox: o guia completo](https://www.udemy.com/flexbox-guia-completo/?couponCode=APRENDA_FRONTEND) | Udemy | :green_heart: | CSS | [Tárcio Zemel](https://about.me/tarciozemel) | :moneybag:
-[Functional Programming Beginner](http://paqmind.com/courses/fp-beginner/) | [Paqmind](http://paqmind.com/) | :green_heart: | JavaScript | Paqmind | :free:
-[Git e GitHub](https://www.udemy.com/git-e-github-para-iniciantes/) | Udemy | :green_heart: | Git/Github | [Willian Justen](https://github.com/willianjusten) | :free:
-[HTML e CSS](https://www.codecademy.com/pt-BR/learn/web) | Codecademy | :green_heart: | HTML/CSS | [Codecademy](https://www.codecademy.com/) | :free:
-[Javascript Ninja](https://blog.da2k.com.br/curso-javascript-ninja/) | Udemy | :large_orange_diamond: | JavaScript | [Fernando Daciuk](https://github.com/fdaciuk) | :moneybag::moneybag::moneybag:
-[Node.js Beginner](http://paqmind.com/courses/nodejs-beginner/) | Paqmind | :green_heart: | JavaScript | [Paqmind](http://paqmind.com/) | :free:
-[ReactJS Ninja](https://blog.da2k.com.br/curso-reactjs-ninja/) | Udemy | :large_orange_diamond: | ReactJS | [Fernando Daciuk](https://github.com/fdaciuk) | :moneybag::moneybag::moneybag:
-[React/Redux](https://www.udemy.com/react-redux-pt/) | Udemy | :large_orange_diamond: | ReactJS | [Leonardo Moura Leitão](https://github.com/cod3rcursos/) | :moneybag::moneybag::moneybag:
-[Vue.js do jeito ninja](https://www.youtube.com/playlist?list=PLcoYAcR89n-qq1vGRbaUiV6Q9puy0qigW) | Youtube | :green_heart: | Vue Js | [Tiago Matos](http://www.tiagomatos.com) | :free:
-[Gatsby: Crie um site PWA com React, GraphQL e Netlify CMS](https://www.udemy.com/course/gatsby-crie-um-site-pwa-com-react-graphql-e-netlify-cms/) | Udemy | :large_orange_diamond: | ReactJS | [Willian Justen](https://willianjusten.com.br/) | :moneybag::moneybag::moneybag:
-[Vue/Vuex](https://www.udemy.com/vuejs-2-the-complete-guide/) | Udemy | :large_orange_diamond: | Vue.js | [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/) | :moneybag:
-[Vue Fundamentals](https://vueschool.io/courses/vuejs-fundamentals) | Vueschool | :large_orange_diamond: | Vue.js | [VueSchool](https://vueschool.io) | :free:
-[Desenvolvedor Front-End](https://www.alura.com.br/carreira-desenvolvedor-front-end) | Alura | :green_heart: | HTML/CSS/JS | Alura | :moneybag:
-[Desenvolvedor Javascript](https://www.alura.com.br/carreira-desenvolvedor-javascript) | Alura | :large_orange_diamond: | Javascript | Alura | :moneybag:
-[Engenheiro Javascript](https://www.alura.com.br/carreira-engenheiro-javascript) | Alura | :red_circle: | Javascript | Alura | :moneybag:
-[Desenvolvedor Vuejs](https://www.alura.com.br/carreira-desenvolvedor-vuejs) | Alura | :large_orange_diamond: | Vuejs | Alura | :moneybag:
-[Desenvolvedor Angular](https://www.alura.com.br/carreira-angular) | Alura | :large_orange_diamond: | Angular | Alura | :moneybag:
-[Desenvolvedor React](https://www.alura.com.br/carreira-programador-react) | Alura | :large_orange_diamond: | React/Redux | Alura | :moneybag:
-[Front-end em geral](https://www.schoolofnet.com/planos-de-estudo/programacao/frontend) | School of Net | :large_orange_diamond: | Angular, React, Vue, Javascript e etc | School of net | :moneybag:
-[Curso HTML 5](https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o) | YouTube | :green_heart: | HTML 5 | Curso em Vídeo | :free:
-[Curso de JavaScript para iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) | YouTube | :green_heart: | HTML 5 | Curso em Vídeo | :free:
-[Angular 9 - Essencial](https://www.cod3r.com.br/courses/angular-9-essencial) | Cod3r | :large_orange_diamond: | Angular | [Cod3r](https://www.cod3r.com.br/) | :free:
-[Desenvolvimento SPA com Angular](https://desenvolvedor.io/curso-online-desenvolvimento-spa-com-angular) | desenvolvedor.io | :large_orange_diamond: | Angular | [desenvolvedor.io](https://desenvolvedor.io/) | :moneybag:
-[Desenvolvimento Avançado em Angular](https://desenvolvedor.io/curso-online-desenvolvimento-avancado-em-angular) | desenvolvedor.io | :red_circle: | Angular | [desenvolvedor.io](https://desenvolvedor.io/) | :moneybag::moneybag::moneybag:
+[Angular](https://www.youtube.com/watch?v=tPOMG0D57S0&list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G) | YouTube | Intermediário | Angular | [Loiane Groner](https://loiane.com/) | :free:
+[CSS3 com Sass e Compass](https://www.youtube.com/watch?v=D9OpSGViDgA&list=PL3C05B7A66AC502CF) | YouTube | Intermediário | CSS | [Loiane Groner](https://loiane.com/) | :free:
+[CSS: um passo adiante](https://www.udemy.com/css-um-passo-adiante/?couponCode=APRENDA_FRONTEND) | Udemy | Intermediário | CSS | [Tárcio Zemel](https://about.me/tarciozemel) | :moneybag:
+[CSS Grid: o sistema definitivo de layouts](https://www.udemy.com/css-grid-layout/?couponCode=APRENDA_FRONTEND) | Udemy | Básico | CSS | [Tárcio Zemel](https://about.me/tarciozemel) | :moneybag:
+[Começando com React.js](https://jscasts.teachable.com/p/comecando-com-react-js) | Teachable | Básico | ReactJS | [Matheus Lima](https://matheuslima.com/) | :free:
+[Curso Netlify](https://www.youtube.com/watch?v=a1cIjP1bueM&list=PLlAbYrWSYTiMGMxQf9JSoZUU1rgVpGPth) | YouTube | Básico | Deploy | [Willian Justen](https://github.com/willianjusten) | :free:
+[Flexbox: o guia completo](https://www.udemy.com/flexbox-guia-completo/?couponCode=APRENDA_FRONTEND) | Udemy | Básico | CSS | [Tárcio Zemel](https://about.me/tarciozemel) | :moneybag:
+[Functional Programming Beginner](http://paqmind.com/courses/fp-beginner/) | [Paqmind](http://paqmind.com/) | Básico | JavaScript | Paqmind | :free:
+[Git e GitHub](https://www.udemy.com/git-e-github-para-iniciantes/) | Udemy | Básico | Git/Github | [Willian Justen](https://github.com/willianjusten) | :free:
+[HTML e CSS](https://www.codecademy.com/pt-BR/learn/web) | Codecademy | Básico | HTML/CSS | [Codecademy](https://www.codecademy.com/) | :free:
+[Javascript Ninja](https://blog.da2k.com.br/curso-javascript-ninja/) | Udemy | Intermediário | JavaScript | [Fernando Daciuk](https://github.com/fdaciuk) | :moneybag::moneybag::moneybag:
+[Node.js Beginner](http://paqmind.com/courses/nodejs-beginner/) | Paqmind | Básico | JavaScript | [Paqmind](http://paqmind.com/) | :free:
+[ReactJS Ninja](https://blog.da2k.com.br/curso-reactjs-ninja/) | Udemy | Intermediário | ReactJS | [Fernando Daciuk](https://github.com/fdaciuk) | :moneybag::moneybag::moneybag:
+[React/Redux](https://www.udemy.com/react-redux-pt/) | Udemy | Intermediário | ReactJS | [Leonardo Moura Leitão](https://github.com/cod3rcursos/) | :moneybag::moneybag::moneybag:
+[Vue.js do jeito ninja](https://www.youtube.com/playlist?list=PLcoYAcR89n-qq1vGRbaUiV6Q9puy0qigW) | Youtube | Básico | Vue Js | [Tiago Matos](http://www.tiagomatos.com) | :free:
+[Gatsby: Crie um site PWA com React, GraphQL e Netlify CMS](https://www.udemy.com/course/gatsby-crie-um-site-pwa-com-react-graphql-e-netlify-cms/) | Udemy | Intermediário | ReactJS | [Willian Justen](https://willianjusten.com.br/) | :moneybag::moneybag::moneybag:
+[Vue/Vuex](https://www.udemy.com/vuejs-2-the-complete-guide/) | Udemy | Intermediário | Vue.js | [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/) | :moneybag:
+[Vue Fundamentals](https://vueschool.io/courses/vuejs-fundamentals) | Vueschool | Intermediário | Vue.js | [VueSchool](https://vueschool.io) | :free:
+[Desenvolvedor Front-End](https://www.alura.com.br/carreira-desenvolvedor-front-end) | Alura | Básico | HTML/CSS/JS | Alura | :moneybag:
+[Desenvolvedor Javascript](https://www.alura.com.br/carreira-desenvolvedor-javascript) | Alura | Intermediário | Javascript | Alura | :moneybag:
+[Engenheiro Javascript](https://www.alura.com.br/carreira-engenheiro-javascript) | Alura | Avançado | Javascript | Alura | :moneybag:
+[Desenvolvedor Vuejs](https://www.alura.com.br/carreira-desenvolvedor-vuejs) | Alura | Intermediário | Vuejs | Alura | :moneybag:
+[Desenvolvedor Angular](https://www.alura.com.br/carreira-angular) | Alura | Intermediário | Angular | Alura | :moneybag:
+[Desenvolvedor React](https://www.alura.com.br/carreira-programador-react) | Alura | Intermediário | React/Redux | Alura | :moneybag:
+[Front-end em geral](https://www.schoolofnet.com/planos-de-estudo/programacao/frontend) | School of Net | Intermediário | Angular, React, Vue, Javascript e etc | School of net | :moneybag:
+[Curso HTML 5](https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o) | YouTube | Básico | HTML 5 | Curso em Vídeo | :free:
+[Curso de JavaScript para iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) | YouTube | Básico | HTML 5 | Curso em Vídeo | :free:
+[Angular 9 - Essencial](https://www.cod3r.com.br/courses/angular-9-essencial) | Cod3r | Intermediário | Angular | [Cod3r](https://www.cod3r.com.br/) | :free:
+[Desenvolvimento SPA com Angular](https://desenvolvedor.io/curso-online-desenvolvimento-spa-com-angular) | desenvolvedor.io | Intermediário | Angular | [desenvolvedor.io](https://desenvolvedor.io/) | :moneybag:
+[Desenvolvimento Avançado em Angular](https://desenvolvedor.io/curso-online-desenvolvimento-avancado-em-angular) | desenvolvedor.io | Avançado | Angular | [desenvolvedor.io](https://desenvolvedor.io/) | :moneybag::moneybag::moneybag:
 
 [Ir para o índice](#Índice)
 
