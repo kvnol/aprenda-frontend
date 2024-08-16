@@ -136,7 +136,6 @@ Título | Assunto | Autor | Idioma
 [Node.js](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTFo60Bt972f8HA4Td7WKwq) | JavaScript | [Rodrigo Branas](https://github.com/rodrigobranas) | :brazil:
 [Qualidade de Código](https://www.youtube.com/playlist?list=PLQCmSnNFVYnSpfpwwQGO8QHQ3CcizaZsV) | JavaScript | [Rodrigo Branas](https://github.com/rodrigobranas) | :brazil:
 [Tudo sobre AngularJS](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb) | JavaScript | [Rodrigo Branas](https://github.com/rodrigobranas) | :brazil:
-[Sass](https://www.youtube.com/playlist?list=PL77JVjKTJT2h4DPhWnTyVurZXugplVa1r) | CSS | [Amanda Vilela](https://github.com/amandavilela) | :brazil:
 
 [Ir para o índice](#Índice)
 
